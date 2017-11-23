@@ -6,8 +6,8 @@ const Nav = () => (
       <div className="container-fluid">
         <p className="navbar-brand">React Times</p>
         <ul className="nav navbar-nav navbar-right">
-          <li><a href="">Search</a></li>
-          <li><a href="">Saved Articles</a></li>
+          <li><a href="/search">Search</a></li>
+          <li><a href="/saved">Saved Articles</a></li>
         </ul>
       </div>
     </nav>

@@ -1,5 +1,5 @@
 {
-  "name": "React-Times",
+  "name": "Group-NYT-React",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -7,22 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jwong1219/React-Times.git"
-  },
   "keywords": [],
-  "author": "",
+  "author": "jwong1219 <jwong1219@gmail.com>",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jwong1219/React-Times/issues"
-  },
-  "homepage": "https://github.com/jwong1219/React-Times#readme",
   "dependencies": {
     "axios": "^0.17.1",
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
-    "method-override": "^2.3.10",
     "mongoose": "^4.13.4",
     "react-router-dom": "^4.2.2"
   }
